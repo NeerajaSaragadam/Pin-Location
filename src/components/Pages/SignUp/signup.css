@@ -1,0 +1,114 @@
+
+.main-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 50vw;
+    height: 90vh;
+    font-size: 18px;
+    border: 1px solid black;
+}
+.namefeild{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+.namelabel{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    font-size: 18px;
+}
+.Nametext{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 350px;
+    /* margin-left: 140px; */
+}
+.emailfeild{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+.emaillabel{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    font-size: 18px;
+
+}
+.emailtext{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 350px;
+
+}
+.passwordfeild{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 30px;
+    margin-left: 80px;
+
+}
+.passlabel{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    font-size: 18px;
+}
+.passtext{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 350px;
+}
+.btnsign1{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 200px;
+    height: 40px;
+}
+.btnsign{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 300px;
+    height: 40px;
+}
+.btndiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 50px;
+    margin-left: 80px;
+
+}
+.alreadysignin{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-left: 50px;
+    font-size: 16px;
+
+}
+.googlebtn{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-left: 200px;
+    margin-top: 30px;
+    
+}

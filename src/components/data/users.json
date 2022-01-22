@@ -1,0 +1,228 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Neeraja",
+      "email": "Neeru@gmail.com",
+      "password": "Neeraja112"
+    },
+    {
+      "name": "Neeraja",
+      "email": "Neeraja12@gmail.com",
+      "password": "Pass@123",
+      "id": 2
+    },
+    {
+      "name": "neeraja",
+      "email": "neeru112@gmail.com",
+      "password": "Pass@123",
+      "id": 3
+    },
+    {
+      "name": "Neeraja",
+      "email": "neeru112@gmail.com",
+      "password": "Pass@123",
+      "id": 4
+    },
+    {
+      "name": "Nnn",
+      "email": "bbb",
+      "password": "333",
+      "id": 5
+    },
+    {
+      "name": "Neeraja",
+      "email": "neeru112@gmail.com",
+      "password": "Pass@123",
+      "id": 6
+    },
+    {
+      "name": "Neeraja",
+      "email": "Neeru@gmail.com",
+      "password": "Pass@123",
+      "id": 7
+    },
+    {
+      "name": "Neeraja",
+      "email": "Neeru@gmail.com",
+      "password": "Pass@123",
+      "id": 8
+    },
+    {
+      "name": "Neeraja",
+      "email": "Neeru@gmail.com",
+      "password": "Pass@123",
+      "id": 9
+    },
+    {
+      "name": "Jasuu",
+      "email": "Jasuu@gmail.com",
+      "password": "Pass@123",
+      "id": 10
+    },
+    {
+      "name": "Neeru",
+      "email": "Neeru@gmail.com",
+      "password": "Pass@123",
+      "id": 11
+    },
+    {
+      "name": "Jasuu",
+      "email": "Jassuu@gmail.com",
+      "password": "Pass@123",
+      "id": 12
+    },
+    {
+      "name": "Neer",
+      "email": "Neeru@gmail.com",
+      "password": "Pass@123",
+      "id": 13
+    },
+    {
+      "name": "Neeraja",
+      "email": "Neeru@gmail.com",
+      "password": "Pass@123",
+      "id": 14
+    },
+    {
+      "name": "Nvj",
+      "email": "Lucky@gmail.com",
+      "password": "Pass@123",
+      "id": 15
+    },
+    {
+      "name": "Nvj",
+      "email": "Lucky@gmail.com",
+      "password": "Pass@123",
+      "id": 16
+    },
+    {
+      "name": "Nhgh",
+      "email": "Neeru@gmail.com",
+      "password": "Pass@123",
+      "id": 17
+    },
+    {
+      "name": "Nhgh",
+      "email": "Neeru@gmail.com",
+      "password": "Pass@123",
+      "id": 18
+    },
+    {
+      "name": "Nhkh",
+      "email": "Neeru@gmail.com",
+      "password": "Pass@123",
+      "id": 19
+    },
+    {
+      "name": "Nhkjhk",
+      "email": "Neeru@gmail.com",
+      "password": "Pass@123",
+      "id": 20
+    },
+    {
+      "name": "Nhkjhk",
+      "email": "Neeru@gmail.com",
+      "password": "Pass@123",
+      "id": 21
+    },
+    {
+      "name": "Nhjk",
+      "email": "Neeru@gmail.com",
+      "password": "Pass@123",
+      "id": 22
+    },
+    {
+      "name": "Nhjk",
+      "email": "Neeru@gmail.com",
+      "password": "Pass@123",
+      "id": 23
+    },
+    {
+      "name": "Neeraja",
+      "email": "neerajasaragadam12@gmail.com",
+      "password": "Pass@123",
+      "googleid": "neerajasaragadam12@gmail.com",
+      "id": 24
+    },
+    {
+      "email": "ankurtania@gmail.com",
+      "googleid": "110143821809124694637",
+      "id": 25
+    },
+    {
+      "email": "saragadam.neeraja@bridgelabz.com",
+      "googleid": "103094106040989049796",
+      "id": 26
+    },
+    {
+      "email": "pentakotameghashyam1997@gmail.com",
+      "googleid": "117839674476903739270",
+      "id": 27
+    }
+  ],
+  "Locations1": [
+    {
+      "lat": 17.584753227820794,
+      "lng": 82.78478409732917,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Andhra Pradesh",
+      "district": "Visakhapatnam",
+      "county": "Makavarapalem",
+      "id": 46
+    },
+    {
+      "lat": 17.868199279620995,
+      "lng": 82.36426874136434,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Andhra Pradesh",
+      "district": "Visakhapatnam",
+      "county": "Chintapalle",
+      "id": 47
+    },
+    {
+      "lat": 26.822845253994736,
+      "lng": 73.38205822706294,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Rajasthan",
+      "district": "Jodhpur",
+      "county": "Bhopalgarh Tehsil",
+      "id": 48
+    },
+    {
+      "lat": 27.39920355155297,
+      "lng": 57.172136218653776,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Hormozgan Province",
+      "county": "Rudan County",
+      "id": 49
+    },
+    {
+      "lat": 22.164037329239232,
+      "lng": 84.20692319656018,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Odisha",
+      "district": "Sundargarh",
+      "county": "Baragaon",
+      "id": 50
+    },
+    {
+      "lat": 22.864312696241555,
+      "lng": 73.45444484161902,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Gujarat",
+      "district": "Panch Mahal District",
+      "county": "Godhra Taluka",
+      "id": 51
+    },
+    {
+      "lat": 21.388188310188994,
+      "lng": 80.83825118757596,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Chhattisgarh",
+      "district": "Rajnandgaon",
+      "county": "Khairagarh Tahsil",
+      "id": 52
+    }
+  ]
+}
