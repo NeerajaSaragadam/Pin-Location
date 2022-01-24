@@ -223,6 +223,24 @@
       "district": "Rajnandgaon",
       "county": "Khairagarh Tahsil",
       "id": 52
+    },
+    {
+      "lat": 20.655273683434256,
+      "lng": 76.92626953125001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Akola",
+      "county": "Balapur",
+      "id": 53
+    },
+    {
+      "lat": 20.05786627173239,
+      "lng": 79.38720703125001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Chandrapur District",
+      "county": "Chandrapur",
+      "id": 54
     }
   ]
 }

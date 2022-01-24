@@ -6,7 +6,9 @@ import '../components/openstreet.css'
 import 'leaflet/dist/leaflet.css';
 import L from "leaflet"
 import icon from '../../src/assests/marker.png';
-import {PinnedLocation,getlocation,getaddress} from '../components/service/dataservice'
+import {PinnedLocation,getlocation,getaddress} from '../components/service/dataservice';
+import Popper from '@mui/material/Popper';
+import Box from '@mui/material/Box';
 
 
 // import ReactLeafletSearch from 'react-leaflet-search';
@@ -24,9 +26,11 @@ const Openstreetmap = () => {
     const ZOOM_LEVEL = 6;
     const mapRef = useRef();
     //const geocoder = L.Control.Geocoder.nominatim();
+    const [open, setopen] = React.useState(false);
 
    
         const getmap = (obj) => {
+               setopen(true)
                 const {lat, lng} = obj.latlng
                 
                 getaddress(lat,lng).then((res)=> {
@@ -79,6 +83,11 @@ const Openstreetmap = () => {
                       map.target.on("click", function (e) {
                         const { lat, lng } = e.latlng;
                         // console.log(e.address.city)
+                        <Popper open={open}>
+                        <Box sx={{ border: 1, p: 1, bgcolor: 'background.paper' }}>
+                          The content of the Popper.
+                        </Box>
+                       </Popper>
                         getmap(e)
                         console.log(e)
                        
