@@ -11,6 +11,8 @@ import Switch from '@mui/material/Switch';
 import Openstreetmap from "../../Openstreetmap";
 import '../../../components/openstreet.css'
 import Tabledata from "../../tabularview/tabularview";
+// import Heatmap from "../../heatmap/heatmap";
+import Heatmap from "../../heatmap/heatmap";
 
 const clientId = "664121231611-nuqad3rg499oasuu3p86rafufbrh2h89.apps.googleusercontent.com"
 const label = { inputProps: { 'aria-label': 'Switch demo' } };
@@ -18,6 +20,7 @@ const label = { inputProps: { 'aria-label': 'Switch demo' } };
 
 const Dashboard = () => {
     const [checked, setChecked] = React.useState(true)
+    const [editval,seteditval] = React.useState([])
     // const [switchtablemap,setswitchtablemap] = React.useState(false)
     let history = useHistory();
     
@@ -30,9 +33,12 @@ const Dashboard = () => {
         setChecked(event.target.checked);
       };
 
-      const Listentoedit = (data) => {
-        setChecked(data)
-      }
+    //   const Listentoedit = (data,obj) => {
+    //     setChecked(data)
+    //     seteditval(obj)
+        
+    //   }
+    //   console.log(editval)
     
    
    
@@ -82,7 +88,8 @@ const Dashboard = () => {
               </div>
               <div className="osm">
             
-              {checked ?  <Openstreetmap/> :  <Tabledata Listentoedit ={Listentoedit}/>}
+              {/* {checked ?  <Openstreetmap/> :  <Tabledata/>} */}
+              <Heatmap/>
           </div>
           
         </div>

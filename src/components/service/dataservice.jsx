@@ -30,3 +30,18 @@ export const PinnedLocation = async (obj) => {
       let response = await axios.get("http://localhost:3000/Locations1",content)
       return response
   }
+  export const Posteditdata = async (obj,data) => {
+    console.log(obj)
+    let response = await axios.put(`http://localhost:3000/Locations1/${obj}`,
+    data,
+    content
+    )
+    return response
+  }
+  export const Posthistory = async (obj) => {
+    let response = await axios.post("http://localhost:3000/history",
+    obj,
+    content
+    )
+    return response
+  }

@@ -163,12 +163,13 @@
   ],
   "Locations1": [
     {
-      "lat": 17.584753227820794,
-      "lng": 82.78478409732917,
+      "lat": 21.74132354006686,
+      "lng": 82.06998224543533,
       "user": "pentakotameghashyam1997@gmail.com",
-      "state": "Andhra Pradesh",
-      "district": "Visakhapatnam",
-      "county": "Makavarapalem",
+      "state": "Chhattisgarh",
+      "district": "Baloda Bazar",
+      "county": "Bhatapara Tahsil",
+      "Place": "kkk",
       "id": 46
     },
     {
@@ -241,6 +242,657 @@
       "district": "Chandrapur District",
       "county": "Chandrapur",
       "id": 54
+    },
+    {
+      "lat": 17.897074570970137,
+      "lng": 78.72802734375001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Telangana",
+      "district": "Siddipet",
+      "county": "Gajwel mandal",
+      "id": 55
+    },
+    {
+      "lat": 23.70678062477497,
+      "lng": 77.8271484375,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Madhya Pradesh",
+      "district": "Vidisha",
+      "county": "Vidisha Tahsil",
+      "id": 56
+    },
+    {
+      "lat": 21.393622743140483,
+      "lng": 79.12353515625001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Nagpur District",
+      "county": "Parseoni",
+      "id": 57
+    },
+    {
+      "lat": 21.393622743140483,
+      "lng": 79.12353515625001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Nagpur District",
+      "county": "Parseoni",
+      "id": 58
+    },
+    {
+      "lat": 19.022524566822824,
+      "lng": 75.78369140625001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Beed",
+      "county": "Beed",
+      "id": 59
+    },
+    {
+      "lat": 18.918628456746315,
+      "lng": 75.71777343750001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Beed",
+      "county": "Beed",
+      "id": 60
+    },
+    {
+      "lat": 22.798338336872394,
+      "lng": 75.73974609375001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Madhya Pradesh",
+      "district": "Indore",
+      "county": "Hatod Tahsil",
+      "id": 61
+    },
+    {
+      "lat": 20.016580960431387,
+      "lng": 74.06982421875001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Nashik",
+      "county": "Niphad",
+      "id": 62
+    },
+    {
+      "lat": 17.520308575179257,
+      "lng": 77.08007812500001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Karnataka",
+      "district": "Kalaburagi district",
+      "county": "Chitapura taluku",
+      "id": 63
+    },
+    {
+      "lat": 16.995725435266543,
+      "lng": 75.47607421875001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Sangli",
+      "county": "Jat",
+      "id": 64
+    },
+    {
+      "lat": 16.55393628825215,
+      "lng": 80.50781250000001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Andhra Pradesh",
+      "district": "Guntur",
+      "county": "Thullur",
+      "id": 65
+    },
+    {
+      "lat": 16.55393628825215,
+      "lng": 80.50781250000001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Andhra Pradesh",
+      "district": "Guntur",
+      "county": "Thullur",
+      "id": 66
+    },
+    {
+      "lat": 17.938888442287904,
+      "lng": 78.96972656250001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Telangana",
+      "district": "Siddipet",
+      "county": "Cherial mandal",
+      "id": 67
+    },
+    {
+      "lat": 20.84020298617717,
+      "lng": 74.99267578125001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Jalgaon",
+      "county": "Parola",
+      "id": 68
+    },
+    {
+      "lat": 21.024905354176795,
+      "lng": 74.94873046875001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Jalgaon",
+      "county": "Amalner",
+      "id": 69
+    },
+    {
+      "lat": 20.20227922625235,
+      "lng": 78.72802734375001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Yavatmal",
+      "id": 70
+    },
+    {
+      "lat": 19.954632673827252,
+      "lng": 78.81591796875001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Yavatmal",
+      "county": "Wani",
+      "id": 71
+    },
+    {
+      "lat": 20.346558366200018,
+      "lng": 79.65087890625,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Chandrapur District",
+      "county": "Mul",
+      "id": 72
+    },
+    {
+      "lat": 20.119773872569617,
+      "lng": 79.93652343750001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Chandrapur District",
+      "county": "Sawali",
+      "id": 73
+    },
+    {
+      "lat": 20.84020298617717,
+      "lng": 76.17919921875001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Buldhana",
+      "county": "Malkapur",
+      "id": 74
+    },
+    {
+      "lat": 18.035218703938067,
+      "lng": 79.05242611121044,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Telangana",
+      "district": "Siddipet",
+      "county": "Nangnoor mandal",
+      "Place": "change",
+      "id": 75
+    },
+    {
+      "lat": 20.49070290153844,
+      "lng": 84.79248046875001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Odisha",
+      "district": "Nayagarh",
+      "county": "Gania",
+      "id": 76
+    },
+    {
+      "lat": 15.751945160133326,
+      "lng": 78.04687500000001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Andhra Pradesh",
+      "id": 77
+    },
+    {
+      "lat": 18.16868765464038,
+      "lng": 79.49707031250001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Telangana",
+      "district": "Warangal Urban",
+      "county": "Kamalapur mandal",
+      "id": 78
+    },
+    {
+      "lat": 16.932675742498766,
+      "lng": 82.08984375000001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Andhra Pradesh",
+      "id": 79
+    },
+    {
+      "lat": 23.101838973852008,
+      "lng": 79.89257812500001,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Madhya Pradesh",
+      "district": "Jabalpur",
+      "county": "Jabalpur Tahsil",
+      "id": 80
+    },
+    {
+      "lat": 21.654237296233212,
+      "lng": 81.99581049395721,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Chhattisgarh",
+      "district": "Baloda Bazar",
+      "county": "Simga Tahsil",
+      "id": 81
+    },
+    {
+      "lat": 20.07334546492442,
+      "lng": 81.49071971868734,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Chhattisgarh",
+      "id": 82
+    },
+    {
+      "lat": 23.983115817252784,
+      "lng": 80.9636684749275,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Madhya Pradesh",
+      "district": "Umaria",
+      "county": "Manpur Tahsil",
+      "id": 83
+    },
+    {
+      "lat": 19.63935406078918,
+      "lng": 81.53464065566733,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Chhattisgarh",
+      "district": "Narayanpur",
+      "county": "Narayanpur Tahsil",
+      "id": 84
+    },
+    {
+      "lat": 19.57725875722917,
+      "lng": 81.84208721452725,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Chhattisgarh",
+      "id": 85
+    },
+    {
+      "lat": 20.15587533181757,
+      "lng": 77.64763773293832,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Washim",
+      "county": "Manora",
+      "id": 86
+    },
+    {
+      "lat": 19.597959855171077,
+      "lng": 76.94490274125849,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Hingoli",
+      "county": "Aundha (Nagnath)",
+      "id": 87
+    },
+    {
+      "lat": 19.473713410647047,
+      "lng": 78.855463499888,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Telangana",
+      "id": 88
+    },
+    {
+      "lat": 20.238361587286974,
+      "lng": 74.55121167584909,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Nashik",
+      "county": "Nandgaon",
+      "id": 89
+    },
+    {
+      "lat": 19.39082944712291,
+      "lng": 77.95508429179823,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Nanded",
+      "county": "Himayatnagar",
+      "id": 90
+    },
+    {
+      "lat": 22.326576489662482,
+      "lng": 76.92294227276848,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Madhya Pradesh",
+      "district": "Harda",
+      "county": "Handiya Tahsil",
+      "id": 91
+    },
+    {
+      "lat": 20.547294112801392,
+      "lng": 83.51108281976683,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Odisha",
+      "district": "Balangir",
+      "county": "Tushura",
+      "id": 92
+    },
+    {
+      "lat": 19.245681002736035,
+      "lng": 80.19505207777765,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Gadchiroli",
+      "county": "Aheri",
+      "id": 93
+    },
+    {
+      "lat": 15.810092438825523,
+      "lng": 77.09862602068847,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Andhra Pradesh",
+      "id": 94
+    },
+    {
+      "lat": 16.10585479049153,
+      "lng": 75.69315603732883,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Karnataka",
+      "district": "Bagalkote district",
+      "county": "Badami taluku",
+      "id": 95
+    },
+    {
+      "lat": 15.429191414311038,
+      "lng": 79.00918677931796,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Andhra Pradesh",
+      "Place": "",
+      "id": 96
+    },
+    {
+      "lat": 15.725509071504241,
+      "lng": 79.71192177099779,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Andhra Pradesh",
+      "Place": "",
+      "id": 97
+    },
+    {
+      "lat": 19.846164671582805,
+      "lng": 82.78638735959704,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Odisha",
+      "district": "Kalahandi",
+      "county": "Dharamgarh",
+      "Place": "",
+      "id": 98
+    },
+    {
+      "lat": 19.846164671582805,
+      "lng": 82.78638735959704,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Odisha",
+      "district": "Kalahandi",
+      "county": "Dharamgarh",
+      "Place": "",
+      "id": 99
+    },
+    {
+      "lat": 14.4951842309942,
+      "lng": 80.0852497353277,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Andhra Pradesh",
+      "district": "Sri Potti Sriramulu Nellore",
+      "county": "Indukurpet",
+      "Place": "",
+      "id": 100
+    },
+    {
+      "lat": 14.4951842309942,
+      "lng": 80.0852497353277,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Andhra Pradesh",
+      "district": "Sri Potti Sriramulu Nellore",
+      "county": "Indukurpet",
+      "Place": "",
+      "id": 101
+    },
+    {
+      "lat": 18.705439769916936,
+      "lng": 80.98562894341745,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Chhattisgarh",
+      "Place": "",
+      "id": 102
+    },
+    {
+      "lat": 18.747058761201934,
+      "lng": 76.1104049386387,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Beed",
+      "Place": "",
+      "id": 103
+    },
+    {
+      "lat": 21.735902125632954,
+      "lng": 77.58175632746833,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Madhya Pradesh",
+      "district": "Betul",
+      "county": "Bhainsdehi Tahsil",
+      "Place": "",
+      "id": 104
+    },
+    {
+      "lat": 22.570268026064593,
+      "lng": 79.86564505042774,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Madhya Pradesh",
+      "district": "Seoni",
+      "county": "Dhanora Tahsil",
+      "Place": "",
+      "id": 105
+    },
+    {
+      "lat": 20.09398201211792,
+      "lng": 74.77081636074904,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Aurangabad",
+      "county": "Vaijapur",
+      "Place": "",
+      "id": 106
+    },
+    {
+      "lat": 18.95499946028304,
+      "lng": 77.75744007538827,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Nanded",
+      "county": "Dharmabad",
+      "Place": "vhhgh",
+      "id": 107
+    },
+    {
+      "lat": 23.25837998393434,
+      "lng": 77.95508429179823,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Madhya Pradesh",
+      "district": "Raisen",
+      "county": "Raisen Tahsil",
+      "Place": "jkjlkjl",
+      "id": 108
+    },
+    {
+      "lat": 22.894520480660702,
+      "lng": 81.13935222284744,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Madhya Pradesh",
+      "district": "Dindori",
+      "county": "Dindori Tahsil",
+      "Place": "jooo",
+      "id": 109
+    },
+    {
+      "lat": 22.02136288360345,
+      "lng": 76.41785149749863,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Madhya Pradesh",
+      "district": "Khandwa",
+      "county": "Khandwa Tahsil",
+      "Place": "nmmb",
+      "id": 110
+    },
+    {
+      "lat": 19.618658290477235,
+      "lng": 74.83669776621903,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Ahmednagar",
+      "county": "Nevasa",
+      "Place": "bnmmn",
+      "id": 111
+    },
+    {
+      "lat": 19.43227671629882,
+      "lng": 74.72689542376904,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Ahmednagar",
+      "county": "Rahuri",
+      "Place": "",
+      "id": 112
+    },
+    {
+      "lat": 18.530398219358684,
+      "lng": 79.20683099572791,
+      "user": "neerajasaragadam12@gmail.com",
+      "state": "Telangana",
+      "district": "Karimnagar",
+      "county": "Karimnagar_Rural mandal",
+      "Place": "hom",
+      "id": 113
+    },
+    {
+      "lat": 21.610514849637095,
+      "lng": 81.90761473857512,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Chhattisgarh",
+      "district": "Baloda Bazar",
+      "county": "Simga Tahsil",
+      "Place": "o",
+      "id": 114
+    },
+    {
+      "lat": 20.770559994002245,
+      "lng": 77.00986809317259,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Akola",
+      "county": "Akola",
+      "Place": "k",
+      "id": 115
+    },
+    {
+      "lat": 18.302054648828204,
+      "lng": 74.7955122924828,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Maharashtra",
+      "district": "Pune District",
+      "county": "Indapur",
+      "Place": "h",
+      "id": 116
+    },
+    {
+      "lat": 23.432694069605343,
+      "lng": 84.77256298155206,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Jharkhand",
+      "district": "Lohardaga",
+      "county": "Lohardaga",
+      "Place": "hlo",
+      "id": 117
+    },
+    {
+      "lat": 23.210742742149154,
+      "lng": 82.70683001949807,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Chhattisgarh",
+      "district": "Surajpur",
+      "county": "Ramanujnagar Tahsil",
+      "Place": "kl",
+      "id": 118
+    },
+    {
+      "lat": 21.585615869997664,
+      "lng": 81.630011773321,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Chhattisgarh",
+      "district": "Bemetara",
+      "county": "Berla Tahsil",
+      "Place": "okk",
+      "id": 119
+    },
+    {
+      "lat": "",
+      "lng": "",
+      "user": "",
+      "state": "",
+      "district": "",
+      "county": "",
+      "Place": "k",
+      "id": 120
+    },
+    {
+      "lat": "",
+      "lng": "",
+      "user": "",
+      "state": "",
+      "district": "",
+      "county": "",
+      "Place": "gujj",
+      "id": 121
+    },
+    {
+      "lat": "",
+      "lng": "",
+      "user": "",
+      "state": "",
+      "district": "",
+      "county": "",
+      "Place": "hh",
+      "id": 122
+    },
+    {
+      "lat": "",
+      "lng": "",
+      "user": "",
+      "state": "",
+      "district": "",
+      "county": "",
+      "Place": "testin",
+      "id": 123
+    },
+    {
+      "lat": 19.321187240779548,
+      "lng": 84.39897297777635,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Odisha",
+      "district": "Gajapati",
+      "county": "R.Udayagiri",
+      "Place": "testin",
+      "id": 124
+    }
+  ],
+  "history": [
+    {
+      "id": 1
+    },
+    {
+      "action": "edited",
+      "Place": "Wani",
+      "time": "31/1/2022",
+      "id": 2
     }
   ]
 }
