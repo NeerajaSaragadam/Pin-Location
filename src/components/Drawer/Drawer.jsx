@@ -9,9 +9,12 @@ import Divider from '@mui/material/Divider';
 import ListItem from '@mui/material/ListItem';
 import ListItemIcon from '@mui/material/ListItemIcon';
 import ListItemText from '@mui/material/ListItemText';
+import '../Drawer/Drawer.css'
+import { GetAddHeat } from '../service/dataservice';
+import KeyboardDoubleArrowRightIcon from '@mui/icons-material/KeyboardDoubleArrowRight';
 
 
-const drawerWidth = 220;
+const drawerWidth = 200;
  const margin = 55;
 
 const openedMixin = (theme) => ({
@@ -56,18 +59,35 @@ const Drawer = styled(MuiDrawer, { shouldForwardProp: (prop) => prop !== 'open' 
 );
 
  function MiniDrawer(props) {
-//     console.log("minidrawer",props)
-//   const theme = useTheme();
-//   const [open, setOpen] = React.useState(false);
-//   console.log("test",props.Draweritems)
+   const [heatdata,setheatdata] = React.useState([])
+  const getheatmap = () => {
+    props.Listentominidrawer(false)
+  }
 
-// React.useEffect(()=>{
-//   if(props.Draweritems==true){
-//     setOpen(true);
-//   } else if(props.Draweritems==false){
-//     setOpen(false);
-//   }
-// },[props.Draweritems])
+  const getPinmap = () => {
+    props.Listentopindash(true)
+  }
+
+  const getaddheatmap = () => {
+    GetAddHeat().then((res)=> {
+  
+      setheatdata(res.data)
+    }).catch((err)=> {  
+      console.log(err)
+    })
+  }
+
+  const showheatmapname = (data)=> {
+    console.log(data)
+    props.Listentoaddheatmap(data)
+  }
+ 
+
+  React.useEffect(()=> {
+    getaddheatmap()
+  },[heatdata])
+
+ 
 
    return (
     <Box sx={{ display: 'flex'}}>
@@ -75,13 +95,33 @@ const Drawer = styled(MuiDrawer, { shouldForwardProp: (prop) => prop !== 'open' 
       <Drawer variant="permanent" open={true}>
         <List>
          
-            <ListItem button>
+            <ListItem button onClick={getPinmap}>
               <ListItemText primary= "Pinned Dashboard" />
             </ListItem>
 
-            <ListItem button>
+            <ListItem button onClick={getheatmap}>
               <ListItemText primary= "Heat Map" />
             </ListItem>
+
+            {/* {
+              heatdata.map((city) => 
+              <ListItem>
+               <KeyboardDoubleArrowRightIcon/>
+               <ListItemText primary="city.heatmap"/>
+              </ListItem>
+              )
+            } */}
+
+          {/* <List> */}
+          {heatdata.map((text, index) => (
+            <ListItem button >
+              <ListItemIcon>
+              <KeyboardDoubleArrowRightIcon/>
+              </ListItemIcon>
+              <ListItemText primary={text.heatmap} key={index} onClick = {() => showheatmapname(text.heatmap)}/>
+            </ListItem>
+          ))}
+        {/* </List> */}
 
            
         </List>

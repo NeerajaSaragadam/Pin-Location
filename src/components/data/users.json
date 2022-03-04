@@ -163,13 +163,13 @@
   ],
   "Locations1": [
     {
-      "lat": 21.74132354006686,
-      "lng": 82.06998224543533,
+      "lat": 22.93215218362623,
+      "lng": 79.9309456888611,
       "user": "pentakotameghashyam1997@gmail.com",
-      "state": "Chhattisgarh",
-      "district": "Baloda Bazar",
-      "county": "Bhatapara Tahsil",
-      "Place": "kkk",
+      "state": "Madhya Pradesh",
+      "district": "Jabalpur",
+      "county": "Jabalpur Tahsil",
+      "Place": "",
       "id": 46
     },
     {
@@ -764,16 +764,6 @@
       "id": 112
     },
     {
-      "lat": 18.530398219358684,
-      "lng": 79.20683099572791,
-      "user": "neerajasaragadam12@gmail.com",
-      "state": "Telangana",
-      "district": "Karimnagar",
-      "county": "Karimnagar_Rural mandal",
-      "Place": "hom",
-      "id": 113
-    },
-    {
       "lat": 21.610514849637095,
       "lng": 81.90761473857512,
       "user": "pentakotameghashyam1997@gmail.com",
@@ -882,6 +872,95 @@
       "county": "R.Udayagiri",
       "Place": "testin",
       "id": 124
+    },
+    {
+      "lat": 25.212706783536387,
+      "lng": 75.87317884763117,
+      "user": "pentakotameghashyam1997@gmail.com",
+      "state": "Rajasthan",
+      "district": "Kota",
+      "county": "Ladpura Tehsil",
+      "Place": "klo",
+      "id": 125
+    },
+    {
+      "lat": 25.516727928893896,
+      "lng": 85.88291582744445,
+      "user": "neerajasaragadam12@gmail.com",
+      "state": "Bihar",
+      "district": "Begusarai",
+      "county": "Bachhwara",
+      "Place": "vvn",
+      "id": 130
+    },
+    {
+      "lat": 17.784324090235096,
+      "lng": 78.78887023791519,
+      "user": "neerajasaragadam12@gmail.com",
+      "state": "Telangana",
+      "district": "Siddipet",
+      "county": "Jagdevpur mandal",
+      "Place": "hom",
+      "id": 131
+    },
+    {
+      "lat": 17.95162664401485,
+      "lng": 82.89594926343217,
+      "user": "neerajasaragadam12@gmail.com",
+      "state": "Andhra Pradesh",
+      "district": "Visakhapatnam",
+      "county": "Cheedikada",
+      "Place": "offic",
+      "id": 132
+    },
+    {
+      "lat": 20.441490152820833,
+      "lng": 84.36746955599703,
+      "user": "neerajasaragadam12@gmail.com",
+      "state": "Odisha",
+      "district": "Kandhamal",
+      "county": "Khajuripada",
+      "Place": "offic",
+      "id": 133
+    },
+    {
+      "lat": 23.093943958701512,
+      "lng": 72.33175134218271,
+      "user": "neerajasaragadam12@gmail.com",
+      "state": "Gujarat",
+      "district": "Ahmedabad District",
+      "county": "Sanand Taluka",
+      "Place": "schoo",
+      "id": 134
+    },
+    {
+      "lat": 23.13436154064061,
+      "lng": 72.55138123659538,
+      "user": "neerajasaragadam12@gmail.com",
+      "state": "Gujarat",
+      "district": "Gandhinagar District",
+      "county": "Gandhinagar Taluka",
+      "Place": "sdfs",
+      "id": 135
+    },
+    {
+      "lat": 29.6385299915468,
+      "lng": 56.645024472063376,
+      "user": "neerajasaragadam12@gmail.com",
+      "state": "Kerman Province",
+      "county": "Bardsir County",
+      "Place": "",
+      "id": 136
+    },
+    {
+      "lat": 22.27591247822872,
+      "lng": 73.3775695451702,
+      "user": "neerajasaragadam12@gmail.com",
+      "state": "Gujarat",
+      "district": "Vadodara District",
+      "county": "Vagodhia Taluka",
+      "Place": "",
+      "id": 137
     }
   ],
   "history": [
@@ -893,6 +972,609 @@
       "Place": "Wani",
       "time": "31/1/2022",
       "id": 2
+    },
+    {
+      "action": "edited",
+      "Place": "Bhatapara Tahsil",
+      "time": "9/2/2022",
+      "id": 3
+    },
+    {
+      "action": "edited",
+      "Place": "Karimnagar_Rural mandal",
+      "time": "9/2/2022",
+      "id": 4
+    },
+    {
+      "action": "edited",
+      "Place": "Khairagarh Tahsil",
+      "time": "15/2/2022",
+      "id": 5
+    },
+    {
+      "action": "edited",
+      "Place": "Dasapalla",
+      "time": "15/2/2022",
+      "id": 6
+    },
+    {
+      "action": "edited",
+      "Place": "Chandrapur",
+      "time": "26/2/2022",
+      "id": 7
+    },
+    {
+      "action": "edited",
+      "Place": "Bachannapet mandal",
+      "time": "26/2/2022",
+      "id": 8
+    },
+    {
+      "action": "deleted",
+      "Place": "Burmu",
+      "time": "4/3/2022",
+      "id": 9
+    }
+  ],
+  "heatmap": [
+    {
+      "heatmap": "hyd",
+      "user": "neerajasaragadam12@gmail.com",
+      "id": 1
+    },
+    {
+      "heatmap": "vizag",
+      "user": "neerajasaragadam12@gmail.com",
+      "id": 2
+    },
+    {
+      "heatmap": "Mumbai",
+      "user": "neerajasaragadam12@gmail.com",
+      "id": 3
+    },
+    {
+      "heatmap": "chennai",
+      "user": "neerajasaragadam12@gmail.com",
+      "id": 4
+    },
+    {
+      "heatmap": "banglore",
+      "user": "neerajasaragadam12@gmail.com",
+      "id": 5
+    },
+    {
+      "heatmap": "odisa",
+      "user": "neerajasaragadam12@gmail.com",
+      "id": 6
+    },
+    {
+      "heatmap": "kerala",
+      "user": "neerajasaragadam12@gmail.com",
+      "id": 7
+    },
+    {
+      "heatmap": "kerala",
+      "user": "neerajasaragadam12@gmail.com",
+      "id": 8
+    },
+    {
+      "heatmap": "kerala",
+      "user": "neerajasaragadam12@gmail.com",
+      "id": 9
+    },
+    {
+      "heatmap": "delhi",
+      "user": "neerajasaragadam12@gmail.com",
+      "id": 10
+    }
+  ],
+  "heatmapdata": [
+    {
+      "id": 2
+    },
+    {
+      "lat": 17.589703264874643,
+      "lng": 79.1901491549847,
+      "intensity": 16,
+      "heatmapname": "hyd",
+      "id": 3
+    },
+    {
+      "lat": 17.380129070408817,
+      "lng": 78.53094140175952,
+      "intensity": 148,
+      "heatmapname": "hyd",
+      "id": 4
+    },
+    {
+      "lat": 17.50590257451841,
+      "lng": 79.62962099046814,
+      "intensity": 126,
+      "heatmapname": "hyd",
+      "id": 5
+    },
+    {
+      "lat": 17.04431177504659,
+      "lng": 78.70673013595285,
+      "intensity": 45,
+      "heatmapname": "hyd",
+      "id": 6
+    },
+    {
+      "lat": 17.17031466401442,
+      "lng": 79.4098850727264,
+      "intensity": 67,
+      "heatmapname": "hyd",
+      "id": 7
+    },
+    {
+      "lat": 17.422063207306138,
+      "lng": 80.11304000949994,
+      "intensity": 167,
+      "heatmapname": "hyd",
+      "id": 8
+    },
+    {
+      "lat": 16.918223876072872,
+      "lng": 78.26725830046942,
+      "intensity": 95,
+      "heatmapname": "hyd",
+      "id": 9
+    },
+    {
+      "lat": 16.960262587150513,
+      "lng": 79.05830760433963,
+      "intensity": 194,
+      "heatmapname": "hyd",
+      "id": 10
+    },
+    {
+      "lat": 17.338185324983876,
+      "lng": 80.06909282595159,
+      "intensity": 68,
+      "heatmapname": "hyd",
+      "id": 11
+    },
+    {
+      "lat": 16.876175780942706,
+      "lng": 79.05830760433963,
+      "intensity": 106,
+      "heatmapname": "hyd",
+      "id": 12
+    },
+    {
+      "lat": 17.296231991312766,
+      "lng": 79.76146254111318,
+      "intensity": 39,
+      "heatmapname": "hyd",
+      "id": 13
+    },
+    {
+      "lat": 16.665795264844235,
+      "lng": 78.35515266756609,
+      "intensity": 137,
+      "heatmapname": "hyd",
+      "id": 14
+    },
+    {
+      "lat": 16.918223876072872,
+      "lng": 78.88251887014624,
+      "intensity": 169,
+      "heatmapname": "hyd",
+      "id": 15
+    },
+    {
+      "lat": 17.17031466401442,
+      "lng": 79.67356817401651,
+      "intensity": 74,
+      "heatmapname": "hyd",
+      "id": 16
+    },
+    {
+      "lat": 17.380129070408817,
+      "lng": 80.33277592724168,
+      "intensity": 140,
+      "heatmapname": "hyd",
+      "id": 17
+    },
+    {
+      "lat": 18.102129048420895,
+      "lng": 83.57164952705676,
+      "intensity": 177,
+      "heatmapname": "vizag",
+      "id": 18
+    },
+    {
+      "lat": 18.185649520265386,
+      "lng": 83.96698333699955,
+      "intensity": 130,
+      "heatmapname": "vizag",
+      "id": 19
+    },
+    {
+      "lat": 17.976773732490905,
+      "lng": 83.13238973823142,
+      "intensity": 167,
+      "heatmapname": "vizag",
+      "id": 20
+    },
+    {
+      "lat": 18.01856875909306,
+      "lng": 83.96698333699955,
+      "intensity": 58,
+      "heatmapname": "vizag",
+      "id": 21
+    },
+    {
+      "lat": 17.72579648058704,
+      "lng": 82.56135201275849,
+      "intensity": 120,
+      "heatmapname": "vizag",
+      "id": 22
+    },
+    {
+      "lat": 17.683932609723982,
+      "lng": 83.43987159040915,
+      "intensity": 10,
+      "heatmapname": "vizag",
+      "id": 23
+    },
+    {
+      "lat": 18.06035387102526,
+      "lng": 83.96698333699955,
+      "intensity": 145,
+      "heatmapname": "vizag",
+      "id": 24
+    },
+    {
+      "lat": 17.851329363717838,
+      "lng": 83.74735344258688,
+      "intensity": 119,
+      "heatmapname": "vizag",
+      "id": 25
+    },
+    {
+      "lat": 18.269130016211342,
+      "lng": 84.36231714694239,
+      "intensity": 113,
+      "heatmapname": "vizag",
+      "id": 26
+    },
+    {
+      "lat": 17.600175623662786,
+      "lng": 82.4735000549934,
+      "intensity": 1,
+      "heatmapname": "vizag",
+      "id": 27
+    },
+    {
+      "lat": 17.43254523782371,
+      "lng": 82.73705592828864,
+      "intensity": 1,
+      "heatmapname": "vizag",
+      "id": 28
+    },
+    {
+      "lat": 17.642058984050035,
+      "lng": 83.30809365376157,
+      "intensity": 66,
+      "heatmapname": "vizag",
+      "id": 29
+    },
+    {
+      "lat": 18.685927342071196,
+      "lng": 75.05000962384516,
+      "intensity": 182,
+      "heatmapname": "Mumbai",
+      "id": 30
+    },
+    {
+      "lat": 18.727551135090312,
+      "lng": 75.35749147602289,
+      "intensity": 139,
+      "heatmapname": "Mumbai",
+      "id": 31
+    },
+    {
+      "lat": 18.727551135090312,
+      "lng": 75.75282528596567,
+      "intensity": 182,
+      "heatmapname": "Mumbai",
+      "id": 32
+    },
+    {
+      "lat": 18.352570378258942,
+      "lng": 74.34719396172457,
+      "intensity": 68,
+      "heatmapname": "Mumbai",
+      "id": 33
+    },
+    {
+      "lat": 18.394275459809784,
+      "lng": 74.83037972943248,
+      "intensity": 154,
+      "heatmapname": "Mumbai",
+      "id": 34
+    },
+    {
+      "lat": 18.394275459809784,
+      "lng": 75.22571353937529,
+      "intensity": 70,
+      "heatmapname": "Mumbai",
+      "id": 35
+    },
+    {
+      "lat": 18.477655325671623,
+      "lng": 76.19208507479105,
+      "intensity": 12,
+      "heatmapname": "Mumbai",
+      "id": 36
+    },
+    {
+      "lat": 17.976773732490905,
+      "lng": 74.34719396172457,
+      "intensity": 24,
+      "heatmapname": "Mumbai",
+      "id": 37
+    },
+    {
+      "lat": 17.976773732490905,
+      "lng": 74.78645375054995,
+      "intensity": 45,
+      "heatmapname": "Mumbai",
+      "id": 38
+    },
+    {
+      "lat": 18.185649520265386,
+      "lng": 75.22571353937529,
+      "intensity": 196,
+      "heatmapname": "Mumbai",
+      "id": 39
+    },
+    {
+      "lat": 18.685927342071196,
+      "lng": 76.36778899032119,
+      "intensity": 37,
+      "heatmapname": "Mumbai",
+      "id": 40
+    },
+    {
+      "lat": 18.352570378258942,
+      "lng": 75.62104734931808,
+      "intensity": 19,
+      "heatmapname": "Mumbai",
+      "id": 41
+    },
+    {
+      "lat": 17.89315401487222,
+      "lng": 74.91823168719755,
+      "intensity": 173,
+      "heatmapname": "Mumbai",
+      "id": 42
+    },
+    {
+      "lat": 18.14389427143923,
+      "lng": 75.75282528596567,
+      "intensity": 195,
+      "heatmapname": "Mumbai",
+      "id": 43
+    },
+    {
+      "lat": 18.477655325671623,
+      "lng": 76.6752708424989,
+      "intensity": 49,
+      "heatmapname": "Mumbai",
+      "id": 44
+    },
+    {
+      "lat": 17.809494877617688,
+      "lng": 74.74252777166741,
+      "intensity": 19,
+      "heatmapname": "Mumbai",
+      "id": 45
+    },
+    {
+      "lat": 18.22739477511041,
+      "lng": 76.58741888473385,
+      "intensity": 57,
+      "heatmapname": "Mumbai",
+      "id": 46
+    },
+    {
+      "lat": 17.72579648058704,
+      "lng": 75.62104734931808,
+      "intensity": 5,
+      "heatmapname": "Mumbai",
+      "id": 47
+    },
+    {
+      "lat": 17.89315401487222,
+      "lng": 76.27993703255612,
+      "intensity": 85,
+      "heatmapname": "Mumbai",
+      "id": 48
+    },
+    {
+      "lat": 18.269130016211342,
+      "lng": 76.98275269467663,
+      "intensity": 127,
+      "heatmapname": "Mumbai",
+      "id": 49
+    },
+    {
+      "lat": 12.852640587993122,
+      "lng": 80.18934915310163,
+      "intensity": 145,
+      "heatmapname": "chennai",
+      "id": 50
+    },
+    {
+      "lat": 12.638328289223328,
+      "lng": 79.39868153321603,
+      "intensity": 114,
+      "heatmapname": "chennai",
+      "id": 51
+    },
+    {
+      "lat": 12.295055610833288,
+      "lng": 78.82764380774307,
+      "intensity": 199,
+      "heatmapname": "chennai",
+      "id": 52
+    },
+    {
+      "lat": 12.25211472742231,
+      "lng": 79.04727370215574,
+      "intensity": 77,
+      "heatmapname": "chennai",
+      "id": 53
+    },
+    {
+      "lat": 12.337989481386934,
+      "lng": 79.57438544874618,
+      "intensity": 95,
+      "heatmapname": "chennai",
+      "id": 54
+    },
+    {
+      "lat": 21.655513665155286,
+      "lng": 81.37535058293005,
+      "intensity": 66,
+      "heatmapname": "",
+      "id": 55
+    },
+    {
+      "lat": 21.57380331806443,
+      "lng": 82.20994418169819,
+      "intensity": 24,
+      "heatmapname": "",
+      "id": 56
+    },
+    {
+      "lat": 19.72340317405694,
+      "lng": 83.96698333699955,
+      "intensity": 8,
+      "heatmapname": "odisa",
+      "id": 57
+    },
+    {
+      "lat": 19.971412739564244,
+      "lng": 84.66979899912012,
+      "intensity": 120,
+      "heatmapname": "odisa",
+      "id": 58
+    },
+    {
+      "lat": 20.177790003121544,
+      "lng": 85.37261466124066,
+      "intensity": 110,
+      "heatmapname": "odisa",
+      "id": 59
+    },
+    {
+      "lat": 19.80611605972942,
+      "lng": 84.84550291465024,
+      "intensity": 18,
+      "heatmapname": "odisa",
+      "id": 60
+    },
+    {
+      "lat": 19.39212483416422,
+      "lng": 83.79127942146943,
+      "intensity": 133,
+      "heatmapname": "odisa",
+      "id": 61
+    },
+    {
+      "lat": 19.35066733873851,
+      "lng": 84.31839116805983,
+      "intensity": 54,
+      "heatmapname": "odisa",
+      "id": 62
+    },
+    {
+      "lat": 11.047016587032923,
+      "lng": 76.89490073691158,
+      "intensity": 192,
+      "heatmapname": "kerala",
+      "id": 63
+    },
+    {
+      "lat": 10.485786352924361,
+      "lng": 76.85097475802905,
+      "intensity": 8,
+      "heatmapname": "kerala",
+      "id": 64
+    },
+    {
+      "lat": 10.226410060506634,
+      "lng": 77.02667867355918,
+      "intensity": 74,
+      "heatmapname": "kerala",
+      "id": 65
+    },
+    {
+      "lat": 9.620383182119566,
+      "lng": 77.02667867355918,
+      "intensity": 104,
+      "heatmapname": "kerala",
+      "id": 66
+    },
+    {
+      "lat": 10.269654303928096,
+      "lng": 76.32386301143866,
+      "intensity": 117,
+      "heatmapname": "kerala",
+      "id": 67
+    },
+    {
+      "lat": 28.881355899779198,
+      "lng": 76.76312280026397,
+      "intensity": 78,
+      "heatmapname": "delhi",
+      "id": 68
+    },
+    {
+      "lat": 29.073574818115592,
+      "lng": 76.10423311702594,
+      "intensity": 166,
+      "heatmapname": "delhi",
+      "id": 69
+    },
+    {
+      "lat": 29.073574818115592,
+      "lng": 76.10423311702594,
+      "intensity": 26,
+      "heatmapname": "delhi",
+      "id": 70
+    },
+    {
+      "lat": 29.073574818115592,
+      "lng": 76.10423311702594,
+      "intensity": 40,
+      "heatmapname": "delhi",
+      "id": 71
+    },
+    {
+      "lat": 29.073574818115592,
+      "lng": 76.10423311702594,
+      "intensity": 194,
+      "heatmapname": "delhi",
+      "id": 72
+    },
+    {
+      "lat": 28.612555241358457,
+      "lng": 76.59194295122087,
+      "intensity": 41,
+      "heatmapname": "delhi",
+      "id": 73
+    },
+    {
+      "lat": 28.824523022775733,
+      "lng": 75.9110902785416,
+      "intensity": 77,
+      "heatmapname": "delhi",
+      "id": 74
     }
   ]
 }

@@ -16,4 +16,9 @@ table, td, th {
   th {
     height: 70px;
   }
+  button {
+    border : none;
+    outline: none;
+    background-color: transparent;
+  }
   

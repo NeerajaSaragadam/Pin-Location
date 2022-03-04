@@ -49,7 +49,7 @@ const SignIn = () =>{
         }
 
     }
-    const responseGoogle1 = response => {
+    const  responseGoogle1 =  response => {
         let data = {
             email : response.profileObj.email,
             googleid : response.profileObj.googleId
@@ -58,14 +58,28 @@ const SignIn = () =>{
         let findArray1 = filterArray.find((user)=> (response.profileObj.email == user.email))
         console.log(findArray1)
         if(findArray1){
-            localStorage.setItem("token",findArray1.email)
-            history.push('/Dashboard'); 
+          localStorage.setItem("token",findArray1.email)
+            const gettoken = localStorage.getItem("token")
+            if(gettoken){
+                history.push('/Dashboard');
+            }
+            else {
+                history.push('/')
+            }
+          
         }
         else {
             UserSignupPost(data).then((res)=>{
                 console.log(res)
                 localStorage.setItem("token",res.data.email)
-                history.push('/Dashboard');
+                const gettoken = localStorage.getItem("token")
+                if(gettoken){
+                    history.push('/Dashboard');
+                }
+                else {
+                    history.push('/')
+                }
+                
             }).catch((err)=> {
                 console.log(err)
             })

@@ -73,6 +73,9 @@ const takeplace = (e) => {
                   }
   }
  
+  React.useEffect(()=>{
+    props.getlocationdata()
+  })
   
 
   return (

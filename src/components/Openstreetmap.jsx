@@ -22,6 +22,7 @@ const markerIcon = new L.Icon({
 })
 
 const Openstreetmap = (props) => {
+    
     console.log(props)
     const [center,setcenter] = useState({lat: 20.5937, lng: 78.9629})
     const [latlongdata,setlatlongdata] = useState([])
@@ -50,8 +51,7 @@ const Openstreetmap = (props) => {
 
    
         const getmap = (obj) => {
-            //    setopen(true)
-            // setAnchorEl(anchorEl ? null : true);
+           
             setopen(true)
                 const {lat, lng} = obj.latlng
                 
